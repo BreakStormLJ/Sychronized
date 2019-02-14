@@ -1,2 +1,2 @@
 # Sychronized
-关于Sychronized的一些理解
+关于Java关键字Sychronized的一些理解
